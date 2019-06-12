@@ -1,0 +1,28 @@
+.wmd-panel{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    width: 100% !important; 
+}
+
+.selectdatewidget {
+    display: inline-block;
+}
+
+select[name$="_day"].selectdatewidget {
+    width: 14%;
+}
+select[name$="_month"].selectdatewidget {
+    width: 19%;
+}
+select[name$="_year"].selectdatewidget {
+    width: 17%;
+}
+
+.about-image {
+    max-width: 25% !important;
+}
+
+* {
+    font-size: 100%;
+    font-family: 'Karla';
+}
