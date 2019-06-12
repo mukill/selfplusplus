@@ -152,4 +152,4 @@ MEDIA_URL = '/media/' # django-storages
 PROD_DB = dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(PROD_DB)
 
-ALLOWED_HOSTS = ['selfplusplus.herokuapp.com']
+ALLOWED_HOSTS = ['selfplusplus.herokuapp.com', '127.0.0.1']
