@@ -1,0 +1,1 @@
+web: gunicorn selfplusplus.wsgi --log-file -
