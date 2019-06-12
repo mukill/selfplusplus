@@ -19,6 +19,5 @@ importlib-metadata==0.0.0
 prompt-toolkit==2.0.9
 django-crispy-forms==1.7.2
 et-xmlfile==1.0.1
-xlwings==0.15.4
 msgpack==0.6.1
 backports.shutil-get-terminal-size==1.0.0
