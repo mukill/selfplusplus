@@ -3,7 +3,7 @@ ipython-genutils==0.2.0
 jupyterlab-server==0.2.0
 dj-database-url==0.5.0
 django-markdown-deux==1.0.5
-mkl-fft==1.0.10
+mkl-fft==1.0.2
 psycopg2==2.8.2
 jupyter-core==4.4.0
 jupyter-console==6.0.0
