@@ -24,6 +24,12 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
+#### Create your admin to make articles
+Collect static files into our static directory
+```
+python manage.py collectstatic
+```
+
 ##### Run server
 ```
 python manage.py runserver
