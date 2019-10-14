@@ -22,6 +22,10 @@ select[name$="_year"].selectdatewidget {
     max-width: 25% !important;
 }
 
+.blog-post {
+    margin-top: 10px;
+}
+
 * {
     font-size: 100%;
     font-family: 'Karla';
