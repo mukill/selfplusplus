@@ -43,3 +43,8 @@ Visit the admin portal and login using the superuser you created.
 ```
 http://127.0.0.1:8000/admin
 ```
+
+#### Coming soon:
+1. Setup filesystem on S3 for use in heroku
+2. Add in-line images to blog
+3. Add content
